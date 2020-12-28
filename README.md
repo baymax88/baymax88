@@ -1,4 +1,4 @@
-<h1 align="center">⚡️ Hi, I'm Derek Yang ⚡️</h1>
+<h1 align="center">⚡️ Derek Yang, experienced JavaScript Developer ⚡️</h1>
 <h4 align="center"><a href="https://www.linkedin.com/in/derek--yang/">LinkedIn</a> &bull; <a href="https://stackoverflow.com/users/12327226/derek-yang">Stack Overflow</a> &bull; <a href="https://derekyang.netlify.app">Personal Website</a></h4>
 
 ---
