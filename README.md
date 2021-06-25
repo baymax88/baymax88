@@ -1,5 +1,5 @@
 <h1 align="center">⚡️ Derek Yang, experienced JavaScript Developer ⚡️</h1>
-<h4 align="center"><a href="https://www.linkedin.com/in/derek--yang/">LinkedIn</a> &bull; <a href="https://stackoverflow.com/story/baymax88">Stack Overflow</a> &bull; <a href="https://derekyang.netlify.app">Personal Website</a></h4>
+<p align="center"><a href="https://www.linkedin.com/in/derek--yang/">LinkedIn</a> &bull; <a href="https://stackoverflow.com/story/baymax88">Stack Overflow</a> &bull; <a href="https://derekyang.netlify.app">Personal Website</a></p>
 
 ---
 
