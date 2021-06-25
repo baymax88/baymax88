@@ -10,3 +10,6 @@ Derek Yang, who is a high-skilled web developer with extensive experience in the
 - 👍 Project Management and System analyzing
 - 👍 In-depth understanding of many web development skills
 - 👍 Capable of working within specific timelines and deadlines
+<div style="display: flex; justify-content: center;">
+  ![Github stats](https://github-readme-stats.vercel.app/api?username=baymax88)
+</div>
