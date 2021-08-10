@@ -9,3 +9,4 @@ Derek Yang, who is a high-skilled web developer with extensive experience in the
 - 👍 Capable of working within specific timelines and deadlines
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=baymax88&count_private=true&include_all_commits=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryo-ma&layout=compact" />
