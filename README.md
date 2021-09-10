@@ -7,5 +7,5 @@ Derek Yang, who is a high-skilled web developer with extensive experience in the
 - 👍 Advanced mathematical and science skills
 - 👍 Experience in Web programming
 - 👍 Project Management and System analyzing
-- 👍 In-depth understanding of many web development skills
+- 👍 In-depth understanding of various kinds of web development skills
 - 👍 Capable of working within specific timelines and deadlines
