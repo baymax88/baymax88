@@ -1,4 +1,4 @@
-<h1 align="center">⚡️ Derek Yang, Senior Full-Stack Developer ⚡️</h1>
+<h1 align="center">⚡️ Derek Yang, JavaScript Developer ⚡️</h1>
 
 Derek Yang, who is a high-skilled web developer with extensive experience in the field, is looking for an opportunity to use his knowledge to be an asset to a company in need.
 
