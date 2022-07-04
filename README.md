@@ -3,7 +3,7 @@
 </h1>
 
 <p align="left">
-  📣&nbsp;&nbsp;&nbsp;Derek Yang, a high-skilled javascript developer with extensive experience in the field, is here.
+  👋&nbsp;&nbsp;&nbsp;Derek Yang, a high-skilled javascript developer with extensive experience in the field, is here.
 </p>
 
 <div align="left">
