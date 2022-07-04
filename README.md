@@ -1,5 +1,5 @@
 <h1 align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?color=79F727&size=32&duration=4000&vCenter=true&width=600&height=80&lines=Hi%2C+I+am+Derek+Yang+👋;I+am+a+Javascript+Developer...;Front-End+Developer...;DevOps+Engineer." />
+  <img src="https://readme-typing-svg.herokuapp.com?color=68b486&size=32&duration=4000&vCenter=true&width=600&height=80&lines=Hi%2C+I+am+Derek+Yang+👋;I+am+a+Javascript+Developer...;Front-End+Developer...;DevOps+Engineer." />
 </h1>
 
 <p align="left">
@@ -27,5 +27,5 @@
 
 <br />
 <div align="left">
- <img src="https://activity-graph.herokuapp.com/graph?username=baymax88&color=79F727&point=79F727&bg_color=0a0f0b&hide_border=true" width="98%"/>
+ <img src="https://activity-graph.herokuapp.com/graph?username=baymax88&color=aad101&point=aad101&bg_color=0a0f0b&line=68b486&hide_border=true" width="98%"/>
 </div>
