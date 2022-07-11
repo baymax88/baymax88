@@ -27,7 +27,7 @@
   <br />
   <br />
   ⏱&nbsp;&nbsp;&nbsp;Capable of working within specific timelines and deadlines
-</div>
+</h4>
 
 <br />
 <div align="left">
