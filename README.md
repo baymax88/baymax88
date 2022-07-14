@@ -11,8 +11,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=baymax88&theme=merko&hide_border=true" alt="GitHub Stats for Eric Zeng" style="width: 49%;" />
 </div>
 
-<br />
-
 <h4 align="left">
   💡&nbsp;&nbsp;&nbsp;Advanced mathematical and science skills
   <br />
