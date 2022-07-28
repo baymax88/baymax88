@@ -15,10 +15,10 @@
   💡&nbsp;&nbsp;&nbsp;Advanced mathematical and science skills
   <br />
   <br />
-  🥷&nbsp;&nbsp;&nbsp;Extensive Experiences in the Front-End development for web, mobile and TV fields
+  🥷&nbsp;&nbsp;&nbsp;Extensive Experiences in the Front-End development of web, mobile, and TV fields
   <br />
   <br />
-  🎩&nbsp;&nbsp;&nbsp;Project Management, CI/CD and System analyzing
+  🎩&nbsp;&nbsp;&nbsp;Project Management, CI/CD, and System analyzing
   <br />
   <br />
   🔬&nbsp;&nbsp;&nbsp;In-depth understanding of the Javascript
