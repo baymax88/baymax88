@@ -31,3 +31,5 @@
 <div align="left">
  <img src="https://activity-graph.herokuapp.com/graph?username=baymax88&color=aad101&point=aad101&bg_color=0a0f0b&line=68b486&hide_border=true" width="98%"/>
 </div>
+
+![](https://komarev.com/ghpvc/?username=baymax88&color=green)
