@@ -7,7 +7,7 @@
 </h3>
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=baymax88&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=merko" alt="GitHub Stats for Derek Yang" style="width: 49%;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=baymax88&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=merko" alt="GitHub Stats for Derek Yang" style="width: 46%;" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=baymax88&theme=merko&hide_border=true" alt="GitHub Stats for Derek Yang" style="width: 49%;" />
 </div>
 
