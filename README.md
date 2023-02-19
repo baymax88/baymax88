@@ -6,10 +6,8 @@
   👋&nbsp;&nbsp;&nbsp;Derek Yang, a high-skilled javascript developer with extensive experience in the field, is here.
 </h3>
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=baymax88&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=merko" alt="GitHub Stats for Derek Yang" style="width: 46%;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=baymax88&theme=merko&hide_border=true" alt="GitHub Stats for Derek Yang" style="width: 49%;" />
-</div>
+|<img src="https://github-readme-stats.vercel.app/api?username=baymax88&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=merko" alt="GitHub Stats for Derek Yang" />|<img src="https://github-readme-streak-stats.herokuapp.com/?user=baymax88&theme=merko&hide_border=true" alt="GitHub Stats for Derek Yang" />|
+|---|---|
 
 <h4 align="left">
   💡&nbsp;&nbsp;&nbsp;Advanced mathematical and science skills
@@ -27,9 +25,7 @@
   ⏱&nbsp;&nbsp;&nbsp;Capable of working within specific timelines and deadlines
 </h4>
 
-<br />
-<div align="left">
- <img src="https://github-readme-activity-graph.cyclic.app/graph?username=baymax88&color=aad101&point=aad101&bg_color=0a0f0b&line=68b486&hide_border=true" width="98%"/>
-</div>
+|<img src="https://github-readme-activity-graph.cyclic.app/graph?username=baymax88&color=aad101&point=aad101&bg_color=0a0f0b&line=68b486&hide_border=true" />|
+|---|
 
 ![](https://komarev.com/ghpvc/?username=baymax88&color=green)
