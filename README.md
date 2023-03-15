@@ -32,12 +32,7 @@
     </tr>
     <tr>
       <td width="50%" valign="middle" align="center">
-        <b>✨ 26 high-quality projects...</b>
-        <br />
-        <br />
-        <p>
-          <em>Proven track record of delivering high-quality projects on time and within budget</em>
-        </p>
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=baymax88&include_all_commits=true&count_private=true&show_icons=true&locale=cn&layout=compact&theme=merko&hide_border=true" alt="GitHub Stats for Derek Yang" />
       </td>
       <td width="50%" valign="middle" align="center">
         <b>🥷 Skilled in multiple programming languages...</b>
@@ -58,17 +53,20 @@
         </p>
       </td>
       <td width="50%" valign="middle" align="center">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=baymax88&include_all_commits=true&count_private=true&show_icons=true&locale=cn&layout=compact&theme=merko&hide_border=true" alt="GitHub Stats for Derek Yang" />
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" valign="middle" align="center">
+        <img src="https://github-readme-activity-graph.cyclic.app/graph?username=baymax88&color=aad101&point=aad101&bg_color=0a0f0b&line=68b486&hide_border=true" />
+      </td>
+      <td width="50%" valign="middle" align="center">
         <b>✅ Innovative...</b>
         <br />
         <br />
         <p>
           <em> and results-driven developer with a passion for creating cutting-edge software solutions.</em>
         </p>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" valign="middle" align="center">
-        <img src="https://github-readme-activity-graph.cyclic.app/graph?username=baymax88&color=aad101&point=aad101&bg_color=0a0f0b&line=68b486&hide_border=true" width="80%" />
       </td>
     </tr>
   </tbody>
