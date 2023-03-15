@@ -45,11 +45,11 @@
     </tr>
     <tr>
       <td width="50%" valign="middle" align="center">
-        <b>📚 Fast learner...</b>
+        <b>✅ Innovative...</b>
         <br />
         <br />
         <p>
-          <em>Dedicated to continuous learning and professional development.</em>
+          <em> and results-driven developer with a passion for creating cutting-edge software solutions.</em>
         </p>
       </td>
       <td width="50%" valign="middle" align="center">
@@ -57,16 +57,8 @@
       </td>
     </tr>
     <tr>
-      <td width="50%" valign="middle" align="center">
+      <td colspan="2" valign="middle" align="center">
         <img src="https://github-readme-activity-graph.cyclic.app/graph?username=baymax88&color=aad101&point=aad101&bg_color=0a0f0b&line=68b486&hide_border=true" />
-      </td>
-      <td width="50%" valign="middle" align="center">
-        <b>✅ Innovative...</b>
-        <br />
-        <br />
-        <p>
-          <em> and results-driven developer with a passion for creating cutting-edge software solutions.</em>
-        </p>
       </td>
     </tr>
   </tbody>
