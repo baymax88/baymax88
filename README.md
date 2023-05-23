@@ -6,7 +6,7 @@
   <tbody>
     <tr>
       <td width="50%" valign="middle" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=baymax88&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=merko" alt="GitHub Stats for Derek Yang" />
+        <img src="https://github-readme-stats-bay88.vercel.app/api?username=baymax88&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=merko" alt="GitHub Stats for Derek Yang" />
       </td>
       <td width="50%" valign="middle" align="center">
         <b>🎨 Senior Front-End Dev</b>
@@ -32,7 +32,7 @@
     </tr>
     <tr>
       <td width="50%" valign="middle" align="center">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=baymax88&include_all_commits=true&count_private=true&show_icons=true&locale=cn&layout=compact&theme=merko&hide_border=true" alt="GitHub Stats for Derek Yang" />
+        <img align="center" src="https://github-readme-stats-bay88.vercel.app/api/top-langs?username=baymax88&include_all_commits=true&count_private=true&show_icons=true&locale=cn&layout=compact&theme=merko&hide_border=true" alt="GitHub Stats for Derek Yang" />
       </td>
       <td width="50%" valign="middle" align="center">
         <b>🥷 Skilled in multiple programming languages...</b>
@@ -53,7 +53,7 @@
         </p>
       </td>
       <td width="50%" valign="middle" align="center">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=baymax88&include_all_commits=true&count_private=true&show_icons=true&locale=cn&layout=compact&theme=merko&hide_border=true" alt="GitHub Stats for Derek Yang" />
+        <img align="center" src="https://github-readme-stats-bay88.vercel.app/api?username=baymax88&include_all_commits=true&count_private=true&show_icons=true&locale=cn&layout=compact&theme=merko&hide_border=true" alt="GitHub Stats for Derek Yang" />
       </td>
     </tr>
     <tr>
