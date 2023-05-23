@@ -58,7 +58,7 @@
     </tr>
     <tr>
       <td colspan="2" valign="middle" align="center">
-        <img src="https://github-readme-activity-graph.cyclic.app/graph?username=baymax88&color=aad101&point=aad101&bg_color=0a0f0b&line=68b486&hide_border=true" />
+        <img src="https://github-readme-activity-graph-seven.vercel.app/graph?username=baymax88&color=aad101&point=aad101&bg_color=0a0f0b&line=68b486&hide_border=true" />
       </td>
     </tr>
   </tbody>
